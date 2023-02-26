@@ -5,6 +5,6 @@ Everything is made as simple as possible.
 
 It looks like this
 
+<img width="745" alt="Снимок экрана 2023-02-26 в 13 44 23" src="https://user-images.githubusercontent.com/119353202/221405758-53107bf8-be23-4c49-8f66-a50fb6e6d2f8.png">
 
-![bones1](https://user-images.githubusercontent.com/119353202/216576822-f8a2006a-76dd-4739-9e4b-fc2b8793b487.jpeg) ![bones2](https://user-images.githubusercontent.com/119353202/216577181-3b6c023c-34d5-4a49-9671-0c38250de168.jpeg)
 
